@@ -16,7 +16,7 @@ and Structured Streaming for stream processing.
 
 ## Online Documentation
 
-You can find the latest Spark documentation, including a programming
+You can find the latest Spark documentation, including a programming 
 guide, on the [project web page](https://spark.apache.org/documentation.html).
 This README file only contains basic setup instructions.
 
